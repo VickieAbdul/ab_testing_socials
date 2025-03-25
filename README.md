@@ -54,9 +54,9 @@ The dataset contains 1143 observations and 11 features, including:
    python ab_test.py
 
 ## Next Steps
-- You can extend the A/B test to analyze age groups & gender impact.
-- Also, use other statistical tests like T-Test for deeper insights.
-- Finally, apply machine learning to predict which users are likely to convert.
+- Further analyze user demographics and engagement.
+- Implement A/B testing on different ad creatives.
+- Optimize budget allocation based on campaign performance.
 
 ## About Me
 I’m a Junior Data Scientist passionate about A/B testing, experimentation, NLP, and data-driven decision-making. This project is part of my portfolio to showcase my ability to analyze business problems and derive insights using statistical methods.
