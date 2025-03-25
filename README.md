@@ -41,11 +41,16 @@ The dataset contains 1143 observations and 11 features, including:
 - Statistical Testing (Chi-Square Test for significance)
 
 ## How to use this project. Type the following on your Git bash
-1. Clone this repository
+1. Clone this repository:
+   
    git clone https://github.com/VickieAbdul/ab_testing_socials.git
-2. Install the required libraries
+   
+2. Install the required libraries:
+   
    pip install pandas numpy scipy matplotlib seaborn
+   
 3. Run the Jupyter Notebook or Python script to see the analysis.
+   
    python ab_test.py
 
 ## Next Steps
